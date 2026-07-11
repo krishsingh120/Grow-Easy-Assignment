@@ -199,10 +199,10 @@ export default function Home() {
             {/* User Profile Avatar Card */}
             <div className="flex items-center space-x-3 pl-4 border-l border-border">
               <div className="h-8 w-8 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-750 dark:text-zinc-300 flex items-center justify-center font-semibold text-xs tracking-wide border border-border">
-                UB
+                KS
               </div>
               <div className="text-left hidden md:block">
-                <h4 className="text-xs font-bold text-zinc-800 dark:text-zinc-200 leading-tight">Uttaran Bose</h4>
+                <h4 className="text-xs font-bold text-zinc-800 dark:text-zinc-200 leading-tight">Krish Singh</h4>
                 <p className="text-[10px] text-zinc-400 dark:text-zinc-500 font-semibold uppercase tracking-wider mt-0.5">Admin</p>
               </div>
             </div>
